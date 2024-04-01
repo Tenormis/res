@@ -60,10 +60,6 @@
             ],
             "domain_regex": [
                 "(copilot|designer).microsoft.com"
-            ],
-            "ip_cidr": [
-                "1.1.1.1",
-                "8.8.8.8"
             ]
         }
     ]
