@@ -1,0 +1,70 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "raw.githubusercontent.com"
+            ],
+            "domain_suffix": [
+                "91ai.net",
+                "adobe.com",
+                "ai.com",
+                "bulianglin.com",
+                "byteoversea.com",
+                "capcut.com",
+                "chatgpt.com",
+                "clashios.com",
+                "cmegroup.com",
+                "coze.com",
+                "duangvps.com",
+                "empire-tiktok.com",
+                "fanqiangdang.com",
+                "featuregates.org",
+                "flyzy2005.com",
+                "generated.photos",
+                "hostloc.com",
+                "hostloc.net",
+                "hsqldb.org",
+                "huggingface.co",
+                "intercom.io",
+                "lesscss.org",
+                "losem.tk",
+                "muscdn.com",
+                "musical.ly",
+                "mvnrepository.com",
+                "nostorynomusic.com",
+                "oaistatic.com",
+                "openai.com",
+                "pscdn.co",
+                "scdn.co",
+                "segment.io",
+                "spotify.com",
+                "statsigapi.net",
+                "tik-tokapi.com",
+                "tiktok.com",
+                "tiktokcdn-us.com",
+                "tiktokcdn.com",
+                "tiktokd.net",
+                "tiktokd.org",
+                "tiktokv.com",
+                "tiktokv.us",
+                "tiktokw.us",
+                "towardsdatascience.com",
+                "ttwstatic.com",
+                "ui8.net",
+                "unsplash.com",
+                "v2rayn.org",
+                "v2rayssr.com",
+                "vpsxb.net",
+                "yugogo.xyz"
+            ],
+            "domain_regex": [
+                "(copilot|designer).microsoft.com"
+            ],
+            "ip_cidr": [
+                "1.1.1.1",
+                "8.8.8.8"
+            ]
+        }
+    ]
+}

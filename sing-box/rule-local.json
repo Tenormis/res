@@ -1,0 +1,17 @@
+{
+   "version": 1,
+   "rules": [
+      {
+         "domain": [
+            "cn.bing.com",
+            "douyin.com",
+            "fls.x.gy"
+         ],
+         "domain_suffix": [
+            "microsoft.com",
+            "mozilla.org",
+            "notion.so"
+         ]
+      }
+   ]
+}
