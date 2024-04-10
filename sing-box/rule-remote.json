@@ -2,9 +2,6 @@
     "version": 1,
     "rules": [
         {
-            "domain": [
-                "raw.githubusercontent.com"
-            ],
             "domain_suffix": [
                 "91ai.net",
                 "adobe.com",
@@ -24,6 +21,7 @@
                 "featuregates.org",
                 "flyzy2005.com",
                 "generated.photos",
+                "githubusercontent.com",
                 "guarda.com",
                 "hostloc.com",
                 "hostloc.net",
