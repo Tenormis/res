@@ -7,11 +7,11 @@
             "douyin.com",
             "fls.x.gy"
          ],
-         "domain_suffix": [
-            "abughunt.top",
-            "microsoft.com",
-            "mozilla.org",
-            "notion.so"
+         "domain_regex": [
+            "([\\w\\d-]+\\.)*abughunt.top",
+            "([\\w\\d-]+\\.)*microsoft.com",
+            "([\\w\\d-]+\\.)*mozilla.org",
+            "([\\w\\d-]+\\.)*notion.so"
          ]
       }
    ]
