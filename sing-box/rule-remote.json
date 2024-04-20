@@ -31,6 +31,7 @@
                 "([\\w\\d-]+\\.)*intercom.io",
                 "([\\w\\d-]+\\.)*ip.gs",
                 "([\\w\\d-]+\\.)*ipdog.io",
+                "([\\w\\d-]+\\.)*ipinfo.io",
                 "([\\w\\d-]+\\.)*ipleak.net",
                 "([\\w\\d-]+\\.)*lesscss.org",
                 "([\\w\\d-]+\\.)*losem.tk",
