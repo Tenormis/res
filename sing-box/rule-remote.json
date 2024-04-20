@@ -29,6 +29,7 @@
                 "([\\w\\d-]+\\.)*huggingface.co",
                 "([\\w\\d-]+\\.)*i6.gs",
                 "([\\w\\d-]+\\.)*intercom.io",
+                "([\\w\\d-]+\\.)*ip.gs",
                 "([\\w\\d-]+\\.)*ipdog.io",
                 "([\\w\\d-]+\\.)*ipleak.net",
                 "([\\w\\d-]+\\.)*lesscss.org",
