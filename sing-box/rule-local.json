@@ -11,7 +11,8 @@
             "([\\w\\d-]+\\.)*douyin\\.com",
             "([\\w\\d-]+\\.)*microsoft\\.com",
             "([\\w\\d-]+\\.)*mozilla\\.org",
-            "([\\w\\d-]+\\.)*notion\\.so"
+            "([\\w\\d-]+\\.)*notion\\.so",
+            "([\\w\\d-]+\\.)*weknowledge\\.top"
          ]
       }
    ]
