@@ -48,6 +48,7 @@
                 "([\\w\\d-]+\\.)*paradisev\\.xyz",
                 "([\\w\\d-]+\\.)*pscdn\\.co",
                 "([\\w\\d-]+\\.)*qbittorrent\\.org",
+                "([\\w\\d-]+\\.)*rsvipbt\\.com",
                 "([\\w\\d-]+\\.)*sagernet\\.org",
                 "([\\w\\d-]+\\.)*scdn\\.co",
                 "([\\w\\d-]+\\.)*segment\\.io",
