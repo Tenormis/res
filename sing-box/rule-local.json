@@ -7,7 +7,6 @@
             "fls.x.gy"
          ],
          "domain_regex": [
-            "([\\w\\d-]+\\.)*abughunt\\.top",
             "([\\w\\d-]+\\.)*douyin\\.com",
             "([\\w\\d-]+\\.)*microsoft\\.com",
             "([\\w\\d-]+\\.)*mozilla\\.org",
