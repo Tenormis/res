@@ -28,6 +28,7 @@
                 "([\\w\\d-]+\\.)*generated\\.photos",
                 "([\\w\\d-]+\\.)*githubusercontent\\.com",
                 "([\\w\\d-]+\\.)*guarda\\.com",
+                "([\\w\\d-]+\\.)*hdnjei\\.com",
                 "([\\w\\d-]+\\.)*hostloc\\.com",
                 "([\\w\\d-]+\\.)*hostloc\\.net",
                 "([\\w\\d-]+\\.)*hsqldb\\.org",
