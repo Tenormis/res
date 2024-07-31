@@ -40,6 +40,7 @@
                 "([\\w\\d-]+\\.)*ipdog\\.io",
                 "([\\w\\d-]+\\.)*ipinfo\\.io",
                 "([\\w\\d-]+\\.)*ipleak\\.net",
+                "([\\w\\d-]+\\.)*kdhed\\.com",
                 "([\\w\\d-]+\\.)*lesscss\\.org",
                 "([\\w\\d-]+\\.)*losem\\.tk",
                 "([\\w\\d-]+\\.)*muscdn\\.com",
