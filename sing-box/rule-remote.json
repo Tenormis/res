@@ -57,6 +57,7 @@
                 "([\\w\\d-]+\\.)*scdn\\.co",
                 "([\\w\\d-]+\\.)*segment\\.io",
                 "([\\w\\d-]+\\.)*spotify\\.com",
+                "([\\w\\d-]+\\.)*spring\\.io",
                 "([\\w\\d-]+\\.)*statsigapi\\.net",
                 "([\\w\\d-]+\\.)*superws\\.org",
                 "([\\w\\d-]+\\.)*tik-tokapi\\.com",
