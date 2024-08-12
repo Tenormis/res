@@ -70,6 +70,7 @@
                 "([\\w\\d-]+\\.)*tiktokv\\.us",
                 "([\\w\\d-]+\\.)*tiktokw\\.us",
                 "([\\w\\d-]+\\.)*tok\\.cm",
+                "([\\w\\d-]+\\.)*tortoisesvn\\.net",
                 "([\\w\\d-]+\\.)*towardsdatascience\\.com",
                 "([\\w\\d-]+\\.)*ttwstatic\\.com",
                 "([\\w\\d-]+\\.)*ui8\\.net",
