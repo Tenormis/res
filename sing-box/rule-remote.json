@@ -67,7 +67,7 @@
                 "([\\w\\d-]+\\.)*v2rayssr\\.com",
                 "([\\w\\d-]+\\.)*vpsxb\\.net",
                 "([\\w\\d-]+\\.)*yugogo\\.xyz",
-                "(copilot|designer)\\.microsoft\\.com"
+                "(copilot|designer|go)\\.microsoft\\.com"
             ]
         }
     ]
