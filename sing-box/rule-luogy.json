@@ -20,6 +20,7 @@
                 "([\\w\\d-]+\\.)*rsvipbt\\.com",
                 "([\\w\\d-]+\\.)*selfridgestop\\.com",
                 "([\\w\\d-]+\\.)*superws\\.org",
+                "([\\w\\d-]+\\.)*tiktokonline\\.live",
                 "([\\w\\d-]+\\.)*tok\\.cm"
             ]
         }
