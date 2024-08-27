@@ -3,6 +3,7 @@
     "rules": [
         {
             "domain_regex": [
+                "([\\w\\d-]+\\.)*1password\\.com",
                 "([\\w\\d-]+\\.)*91ai\\.net",
                 "([\\w\\d-]+\\.)*adobe\\.com",
                 "([\\w\\d-]+\\.)*ai\\.com",
