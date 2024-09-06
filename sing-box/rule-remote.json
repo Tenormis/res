@@ -30,6 +30,7 @@
                 "([\\w\\d-]+\\.)*hostloc\\.net",
                 "([\\w\\d-]+\\.)*hsqldb\\.org",
                 "([\\w\\d-]+\\.)*huggingface\\.co",
+                "([\\w\\d-]+\\.)*hysteria\\.network",
                 "([\\w\\d-]+\\.)*i6\\.gs",
                 "([\\w\\d-]+\\.)*intercom\\.io",
                 "([\\w\\d-]+\\.)*ip\\.gs",
