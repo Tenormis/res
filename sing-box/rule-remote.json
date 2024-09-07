@@ -2,6 +2,7 @@
   "version": 1,
   "rules": [
     {
+      "ip_cidr": ["207.148.23.245"],
       "domain_regex": [
         "([\\w\\d-]+\\.)*1password\\.com",
         "([\\w\\d-]+\\.)*91ai\\.net",
