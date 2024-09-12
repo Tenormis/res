@@ -48,6 +48,7 @@
         "([\\w\\d-]+\\.)*nostorynomusic\\.com",
         "([\\w\\d-]+\\.)*oaistatic\\.com",
         "([\\w\\d-]+\\.)*openai\\.com",
+        "([\\w\\d-]+\\.)*projectlombok\\.org",
         "([\\w\\d-]+\\.)*pscdn\\.co",
         "([\\w\\d-]+\\.)*qbittorrent\\.org",
         "([\\w\\d-]+\\.)*sagernet\\.org",
