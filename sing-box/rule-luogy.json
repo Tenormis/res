@@ -7,6 +7,7 @@
                 "3.0.204.207"
             ],
             "domain_regex": [
+                "([\\w\\d-]+\\.)*amazonaws\\.com",
                 "([\\w\\d-]+\\.)*buit\\.top",
                 "([\\w\\d-]+\\.)*cexcrypto\\.top",
                 "([\\w\\d-]+\\.)*familyshopil\\.com",
