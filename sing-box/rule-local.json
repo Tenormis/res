@@ -13,6 +13,7 @@
         "^([\\w\\d-]+\\.)*bytetos\\.com$",
         "^([\\w\\d-]+\\.)*cn$",
         "^([\\w\\d-]+\\.)*douyin\\.com$",
+        "^([\\w\\d-]+\\.)*element-plus\\.org$",
         "^([\\w\\d-]+\\.)*feelgood\\.cn$",
         "^([\\w\\d-]+\\.)*ibytedapm\\.com$",
         "^([\\w\\d-]+\\.)*microsoft\\.com$",
