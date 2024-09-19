@@ -1,31 +1,28 @@
 {
-    "version": 1,
-    "rules": [
-        {
-            "ip_cidr": [
-                "13.229.123.86",
-                "3.0.204.207"
-            ],
-            "domain_regex": [
-                "([\\w\\d-]+\\.)*amazonaws\\.com",
-                "([\\w\\d-]+\\.)*buit\\.top",
-                "([\\w\\d-]+\\.)*cexcrypto\\.top",
-                "([\\w\\d-]+\\.)*familyshopil\\.com",
-                "([\\w\\d-]+\\.)*feixun\\.xyz",
-                "([\\w\\d-]+\\.)*feixunz\\.me",
-                "([\\w\\d-]+\\.)*hdnjei\\.com",
-                "([\\w\\d-]+\\.)*inshopmall\\.vip",
-                "([\\w\\d-]+\\.)*jiuzhouw\\.top",
-                "([\\w\\d-]+\\.)*kdhed\\.com",
-                "([\\w\\d-]+\\.)*netflix-business\\.com",
-                "([\\w\\d-]+\\.)*netflix-max\\.info",
-                "([\\w\\d-]+\\.)*paradisev\\.xyz",
-                "([\\w\\d-]+\\.)*rsvipbt\\.com",
-                "([\\w\\d-]+\\.)*selfridgestop\\.com",
-                "([\\w\\d-]+\\.)*superws\\.org",
-                "([\\w\\d-]+\\.)*tiktokonline\\.live",
-                "([\\w\\d-]+\\.)*tok\\.cm"
-            ]
-        }
-    ]
+  "version": 1,
+  "rules": [
+    {
+      "ip_cidr": ["13.229.123.86", "3.0.204.207"],
+      "domain_regex": [
+        "([\\w\\d-]+\\.)*amazonaws\\.com",
+        "([\\w\\d-]+\\.)*buit\\.top",
+        "([\\w\\d-]+\\.)*cexcrypto\\.top",
+        "([\\w\\d-]+\\.)*familyshopil\\.com",
+        "([\\w\\d-]+\\.)*feixun\\.xyz",
+        "([\\w\\d-]+\\.)*feixunz\\.me",
+        "([\\w\\d-]+\\.)*hdnjei\\.com",
+        "([\\w\\d-]+\\.)*inshopmall\\.vip",
+        "([\\w\\d-]+\\.)*jiuzhouw\\.top",
+        "([\\w\\d-]+\\.)*kdhed\\.com",
+        "([\\w\\d-]+\\.)*netflix-business\\.com",
+        "([\\w\\d-]+\\.)*netflix-max\\.info",
+        "([\\w\\d-]+\\.)*paradisev\\.xyz",
+        "([\\w\\d-]+\\.)*rsvipbt\\.com",
+        "([\\w\\d-]+\\.)*selfridgestop\\.com",
+        "([\\w\\d-]+\\.)*superws\\.org",
+        "([\\w\\d-]+\\.)*tiktokonline\\.live",
+        "([\\w\\d-]+\\.)*tok\\.cm"
+      ]
+    }
+  ]
 }
