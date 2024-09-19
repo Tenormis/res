@@ -11,6 +11,7 @@
         "^([\\w\\d-]+\\.)*bytescm\\.com$",
         "^([\\w\\d-]+\\.)*bytetcc\\.com$",
         "^([\\w\\d-]+\\.)*bytetos\\.com$",
+        "^([\\w\\d-]+\\.)*cn$",
         "^([\\w\\d-]+\\.)*douyin\\.com$",
         "^([\\w\\d-]+\\.)*feelgood\\.cn$",
         "^([\\w\\d-]+\\.)*ibytedapm\\.com$",
