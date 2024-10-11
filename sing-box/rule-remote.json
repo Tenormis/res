@@ -76,7 +76,7 @@
         "^([\\w\\d-]+\\.)*vpsxb\\.net$",
         "^([\\w\\d-]+\\.)*weknowledge\\.top$",
         "^([\\w\\d-]+\\.)*yugogo\\.xyz$",
-        "^(copilot|designer)\\.microsoft\\.com$"
+        "^(account|copilot|designer)\\.microsoft\\.com$"
       ]
     }
   ]
