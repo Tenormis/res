@@ -44,6 +44,7 @@
         "^([\\w\\d-]+\\.)*muscdn\\.com$",
         "^([\\w\\d-]+\\.)*musical\\.ly$",
         "^([\\w\\d-]+\\.)*mvnrepository\\.com$",
+        "^([\\w\\d-]+\\.)*nathanfriend\\.io$",
         "^([\\w\\d-]+\\.)*navattic\\.com$",
         "^([\\w\\d-]+\\.)*nostorynomusic\\.com$",
         "^([\\w\\d-]+\\.)*oaistatic\\.com$",
