@@ -49,6 +49,7 @@
         "^([\\w\\d-]+\\.)*nostorynomusic\\.com$",
         "^([\\w\\d-]+\\.)*oaistatic\\.com$",
         "^([\\w\\d-]+\\.)*openai\\.com$",
+        "^([\\w\\d-]+\\.)*osv\\.dev$",
         "^([\\w\\d-]+\\.)*projectlombok\\.org$",
         "^([\\w\\d-]+\\.)*pscdn\\.co$",
         "^([\\w\\d-]+\\.)*qbittorrent\\.org$",
