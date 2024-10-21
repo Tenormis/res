@@ -18,7 +18,6 @@
         "^([\\w\\d-]+\\.)*ibytedapm\\.com$",
         "^([\\w\\d-]+\\.)*microsoft\\.com$",
         "^([\\w\\d-]+\\.)*mozilla\\.org$",
-        "^([\\w\\d-]+\\.)*notion\\.so$",
         "^([\\w\\d-]+\\.)*open-douyin\\.com$",
         "^([\\w\\d-]+\\.)*snssdk\\.com$",
         "^([\\w\\d-]+\\.)*zijieapi\\.com$"

@@ -47,6 +47,7 @@
         "^([\\w\\d-]+\\.)*nathanfriend\\.io$",
         "^([\\w\\d-]+\\.)*navattic\\.com$",
         "^([\\w\\d-]+\\.)*nostorynomusic\\.com$",
+        "^([\\w\\d-]+\\.)*notion\\.so$",
         "^([\\w\\d-]+\\.)*oaistatic\\.com$",
         "^([\\w\\d-]+\\.)*openai\\.com$",
         "^([\\w\\d-]+\\.)*osv\\.dev$",
