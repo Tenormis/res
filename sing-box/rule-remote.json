@@ -42,6 +42,7 @@
         "^([\\w\\d-]+\\.)*lesscss\\.org$",
         "^([\\w\\d-]+\\.)*llama\\.com$",
         "^([\\w\\d-]+\\.)*losem\\.tk$",
+        "^([\\w\\d-]+\\.)*meta\\.ai$",
         "^([\\w\\d-]+\\.)*meta\\.com$",
         "^([\\w\\d-]+\\.)*mteixeira\\.dev$",
         "^([\\w\\d-]+\\.)*muscdn\\.com$",
