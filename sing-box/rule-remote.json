@@ -33,6 +33,7 @@
         "^([\\w\\d-]+\\.)*huggingface\\.co$",
         "^([\\w\\d-]+\\.)*hysteria\\.network$",
         "^([\\w\\d-]+\\.)*i6\\.gs$",
+        "^([\\w\\d-]+\\.)*instagram\\.com$",
         "^([\\w\\d-]+\\.)*intercom\\.io$",
         "^([\\w\\d-]+\\.)*ip\\.gs$",
         "^([\\w\\d-]+\\.)*ipdog\\.io$",
