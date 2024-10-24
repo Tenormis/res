@@ -20,6 +20,7 @@
         "^([\\w\\d-]+\\.)*mozilla\\.org$",
         "^([\\w\\d-]+\\.)*open-douyin\\.com$",
         "^([\\w\\d-]+\\.)*snssdk\\.com$",
+        "^([\\w\\d-]+\\.)*weknowledge\\.top$",
         "^([\\w\\d-]+\\.)*zijieapi\\.com$"
       ]
     }

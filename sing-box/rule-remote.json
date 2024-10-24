@@ -82,7 +82,6 @@
         "^([\\w\\d-]+\\.)*v2rayn\\.org$",
         "^([\\w\\d-]+\\.)*v2rayssr\\.com$",
         "^([\\w\\d-]+\\.)*vpsxb\\.net$",
-        "^([\\w\\d-]+\\.)*weknowledge\\.top$",
         "^([\\w\\d-]+\\.)*yugogo\\.xyz$",
         "^(account|copilot|designer)\\.microsoft\\.com$"
       ]
