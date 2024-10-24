@@ -20,6 +20,7 @@
         "^([\\w\\d-]+\\.)*coze\\.com$",
         "^([\\w\\d-]+\\.)*duangvps\\.com$",
         "^([\\w\\d-]+\\.)*empire-tiktok\\.com$",
+        "^([\\w\\d-]+\\.)*facebook\\.com$",
         "^([\\w\\d-]+\\.)*fanqiangdang\\.com$",
         "^([\\w\\d-]+\\.)*featuregates\\.org$",
         "^([\\w\\d-]+\\.)*flyzy2005\\.com$",
