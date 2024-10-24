@@ -22,6 +22,7 @@
         "^([\\w\\d-]+\\.)*empire-tiktok\\.com$",
         "^([\\w\\d-]+\\.)*facebook\\.com$",
         "^([\\w\\d-]+\\.)*fanqiangdang\\.com$",
+        "^([\\w\\d-]+\\.)*fbcdn\\.net$",
         "^([\\w\\d-]+\\.)*featuregates\\.org$",
         "^([\\w\\d-]+\\.)*flyzy2005\\.com$",
         "^([\\w\\d-]+\\.)*generated\\.photos$",
