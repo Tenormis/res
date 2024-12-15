@@ -10,6 +10,7 @@
         "^([\\w\\d-]+\\.)*ai\\.com$",
         "^([\\w\\d-]+\\.)*aka\\.ms$",
         "^([\\w\\d-]+\\.)*anthropic\\.com$",
+        "^([\\w\\d-]+\\.)*asiones\\.com$",
         "^([\\w\\d-]+\\.)*bulianglin\\.com$",
         "^([\\w\\d-]+\\.)*byteoversea\\.com$",
         "^([\\w\\d-]+\\.)*capcut\\.com$",
