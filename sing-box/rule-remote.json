@@ -35,6 +35,7 @@
         "^([\\w\\d-]+\\.)*generated\\.photos$",
         "^([\\w\\d-]+\\.)*githubusercontent\\.com$",
         "^([\\w\\d-]+\\.)*guarda\\.com$",
+        "^([\\w\\d-]+\\.)*hellotalk\\.com$",
         "^([\\w\\d-]+\\.)*heroicons\\.dev$",
         "^([\\w\\d-]+\\.)*hostloc\\.com$",
         "^([\\w\\d-]+\\.)*hostloc\\.net$",
