@@ -63,6 +63,7 @@
         "^([\\w\\d-]+\\.)*mybatis\\.org$",
         "^([\\w\\d-]+\\.)*nathanfriend\\.io$",
         "^([\\w\\d-]+\\.)*navattic\\.com$",
+        "^([\\w\\d-]+\\.)*nomic\\.ai$",
         "^([\\w\\d-]+\\.)*nostorynomusic\\.com$",
         "^([\\w\\d-]+\\.)*notion\\.so$",
         "^([\\w\\d-]+\\.)*oaistatic\\.com$",
