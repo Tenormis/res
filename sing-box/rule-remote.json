@@ -98,6 +98,7 @@
         "^([\\w\\d-]+\\.)*vegaai\\.net",
         "^([\\w\\d-]+\\.)*vpsxb\\.net$",
         "^([\\w\\d-]+\\.)*whatsapp\\.com$",
+        "^([\\w\\d-]+\\.)*x\\.ai$",
         "^([\\w\\d-]+\\.)*xlog\\.app$",
         "^([\\w\\d-]+\\.)*yugogo\\.xyz$",
         "^(account|copilot|designer)\\.microsoft\\.com$"
