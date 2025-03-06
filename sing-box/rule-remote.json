@@ -9,6 +9,7 @@
         "^([\\w\\d-]+\\.)*ahhhhfs\\.com$",
         "^([\\w\\d-]+\\.)*ai\\.com$",
         "^([\\w\\d-]+\\.)*aka\\.ms$",
+        "^([\\w\\d-]+\\.)*amazonaws\\.com$",
         "^([\\w\\d-]+\\.)*anthropic\\.com$",
         "^([\\w\\d-]+\\.)*asiones\\.com$",
         "^([\\w\\d-]+\\.)*bulianglin\\.com$",
