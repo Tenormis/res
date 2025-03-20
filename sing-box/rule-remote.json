@@ -20,6 +20,7 @@
         "^([\\w\\d-]+\\.)*clashios\\.com$",
         "^([\\w\\d-]+\\.)*claude\\.ai$",
         "^([\\w\\d-]+\\.)*cmegroup\\.com$",
+        "^([\\w\\d-]+\\.)*codestream\\.com$",
         "^([\\w\\d-]+\\.)*discord\\.com$",
         "^([\\w\\d-]+\\.)*duangvps\\.com$",
         "^([\\w\\d-]+\\.)*empire-tiktok\\.com$",
