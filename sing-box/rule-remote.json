@@ -22,6 +22,7 @@
         "^([\\w\\d-]+\\.)*cmegroup\\.com$",
         "^([\\w\\d-]+\\.)*codestream\\.com$",
         "^([\\w\\d-]+\\.)*discord\\.com$",
+        "^([\\w\\d-]+\\.)*dockerstatic\\.com$",
         "^([\\w\\d-]+\\.)*duangvps\\.com$",
         "^([\\w\\d-]+\\.)*empire-tiktok\\.com$",
         "^([\\w\\d-]+\\.)*facebook\\.com$",
