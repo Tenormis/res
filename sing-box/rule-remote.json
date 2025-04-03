@@ -35,6 +35,7 @@
         "^([\\w\\d-]+\\.)*fbsbx\\.com$",
         "^([\\w\\d-]+\\.)*featuregates\\.org$",
         "^([\\w\\d-]+\\.)*flyzy2005\\.com$",
+        "^([\\w\\d-]+\\.)*fosshub\\.com$",
         "^([\\w\\d-]+\\.)*generated\\.photos$",
         "^([\\w\\d-]+\\.)*githubusercontent\\.com$",
         "^([\\w\\d-]+\\.)*grok\\.com$",
