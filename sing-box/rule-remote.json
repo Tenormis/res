@@ -109,7 +109,7 @@
         "^([\\w\\d-]+\\.)*x\\.(ai|com)$",
         "^([\\w\\d-]+\\.)*xlog\\.app$",
         "^([\\w\\d-]+\\.)*yugogo\\.xyz$",
-        "^(account|copilot|designer)\\.microsoft\\.com$"
+        "^(designer|crl|copilot|account)\\.microsoft\\.com$"
       ]
     }
   ]
