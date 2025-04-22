@@ -21,6 +21,7 @@
         "^([\\w\\d-]+\\.)*claude\\.ai$",
         "^([\\w\\d-]+\\.)*cmegroup\\.com$",
         "^([\\w\\d-]+\\.)*codestream\\.com$",
+        "^([\\w\\d-]+\\.)*criticmarkup\\.com$",
         "^([\\w\\d-]+\\.)*discord\\.com$",
         "^([\\w\\d-]+\\.)*dockerstatic\\.com$",
         "^([\\w\\d-]+\\.)*duangvps\\.com$",
