@@ -79,6 +79,7 @@
         "^([\\w\\d-]+\\.)*oaistatic\\.com$",
         "^([\\w\\d-]+\\.)*openai\\.com$",
         "^([\\w\\d-]+\\.)*osv\\.dev$",
+        "^([\\w\\d-]+\\.)*postman\\.com$",
         "^([\\w\\d-]+\\.)*producthunt\\.com$",
         "^([\\w\\d-]+\\.)*projectlombok\\.org$",
         "^([\\w\\d-]+\\.)*pscdn\\.co$",
