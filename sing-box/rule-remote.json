@@ -51,6 +51,7 @@
         "^([\\w\\d-]+\\.)*huggingface\\.co$",
         "^([\\w\\d-]+\\.)*hysteria\\.network$",
         "^([\\w\\d-]+\\.)*i6\\.gs$",
+        "^([\\w\\d-]+\\.)*iconduck\\.com$",
         "^([\\w\\d-]+\\.)*icons8\\.com$",
         "^([\\w\\d-]+\\.)*insomnia\\.rest$",
         "^([\\w\\d-]+\\.)*instagram\\.com$",
