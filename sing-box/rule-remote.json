@@ -92,6 +92,7 @@
         "^([\\w\\d-]+\\.)*sagernet\\.org$",
         "^([\\w\\d-]+\\.)*scdn\\.co$",
         "^([\\w\\d-]+\\.)*segment\\.io$",
+        "^([\\w\\d-]+\\.)*splunkcloud\\.com$",
         "^([\\w\\d-]+\\.)*spotify\\.com$",
         "^([\\w\\d-]+\\.)*spring\\.io$",
         "^([\\w\\d-]+\\.)*statsigapi\\.net$",
