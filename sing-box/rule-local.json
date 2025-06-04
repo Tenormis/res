@@ -20,6 +20,7 @@
         "^([\\w\\d-]+\\.)*ietheivaicai\\.com$",
         "^([\\w\\d-]+\\.)*microsoft\\.com$",
         "^([\\w\\d-]+\\.)*mozilla\\.org$",
+        "^([\\w\\d-]+\\.)*notion\\.(com|so)$",
         "^([\\w\\d-]+\\.)*open-douyin\\.com$",
         "^([\\w\\d-]+\\.)*qiniudns\\.com$",
         "^([\\w\\d-]+\\.)*snssdk\\.com$",
