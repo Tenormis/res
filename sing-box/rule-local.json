@@ -21,7 +21,6 @@
         "^([\\w\\d-]+\\.)*microsoft\\.com$",
         "^([\\w\\d-]+\\.)*mistral\\.ai$",
         "^([\\w\\d-]+\\.)*mozilla\\.org$",
-        "^([\\w\\d-]+\\.)*notion\\.(com|so)$",
         "^([\\w\\d-]+\\.)*open-douyin\\.com$",
         "^([\\w\\d-]+\\.)*qiniudns\\.com$",
         "^([\\w\\d-]+\\.)*snssdk\\.com$",
