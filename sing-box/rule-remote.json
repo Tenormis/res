@@ -29,6 +29,7 @@
         "^([\\w\\d-]+\\.)*discord\\.com$",
         "^([\\w\\d-]+\\.)*docker\\.com$",
         "^([\\w\\d-]+\\.)*dockerstatic\\.com$",
+        "^([\\w\\d-]+\\.)*dockerstatus\\.com$",
         "^([\\w\\d-]+\\.)*duangvps\\.com$",
         "^([\\w\\d-]+\\.)*elastic\\.co$",
         "^([\\w\\d-]+\\.)*empire-tiktok\\.com$",
