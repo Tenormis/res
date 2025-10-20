@@ -24,6 +24,7 @@
         "^([\\w\\d-]+\\.)*claude\\.ai$",
         "^([\\w\\d-]+\\.)*cmegroup\\.com$",
         "^([\\w\\d-]+\\.)*codestream\\.com$",
+        "^([\\w\\d-]+\\.)*cookielaw\\.org$",
         "^([\\w\\d-]+\\.)*criticmarkup\\.com$",
         "^([\\w\\d-]+\\.)*crowdin\\.net$",
         "^([\\w\\d-]+\\.)*discord\\.com$",
