@@ -27,6 +27,7 @@
         "^([\\w\\d-]+\\.)*criticmarkup\\.com$",
         "^([\\w\\d-]+\\.)*crowdin\\.net$",
         "^([\\w\\d-]+\\.)*discord\\.com$",
+        "^([\\w\\d-]+\\.)*docker\\.com$",
         "^([\\w\\d-]+\\.)*dockerstatic\\.com$",
         "^([\\w\\d-]+\\.)*duangvps\\.com$",
         "^([\\w\\d-]+\\.)*elastic\\.co$",
