@@ -13,6 +13,7 @@
         "^([\\w\\d-]+\\.)*amazonaws\\.com$",
         "^([\\w\\d-]+\\.)*anthropic\\.com$",
         "^([\\w\\d-]+\\.)*asiones\\.com$",
+        "^([\\w\\d-]+\\.)*b-cdn\\.net$",
         "^([\\w\\d-]+\\.)*boringavatars\\.com$",
         "^([\\w\\d-]+\\.)*browser-intake-datadoghq\\.com$",
         "^([\\w\\d-]+\\.)*bulianglin\\.com$",
