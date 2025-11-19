@@ -92,6 +92,7 @@
         "^([\\w\\d-]+\\.)*projectlombok\\.org$",
         "^([\\w\\d-]+\\.)*pscdn\\.co$",
         "^([\\w\\d-]+\\.)*qbittorrent\\.org$",
+        "^([\\w\\d-]+\\.)*redisson\\.pro$",
         "^([\\w\\d-]+\\.)*sagernet\\.org$",
         "^([\\w\\d-]+\\.)*scdn\\.co$",
         "^([\\w\\d-]+\\.)*segment\\.io$",
