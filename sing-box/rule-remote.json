@@ -72,6 +72,7 @@
         "^([\\w\\d-]+\\.)*losem\\.tk$",
         "^([\\w\\d-]+\\.)*mend\\.io$",
         "^([\\w\\d-]+\\.)*meta\\.(ai|com)$",
+        "^([\\w\\d-]+\\.)*middlendian\\.com$",
         "^([\\w\\d-]+\\.)*monica-cdn\\.im$",
         "^([\\w\\d-]+\\.)*monica\\.im$",
         "^([\\w\\d-]+\\.)*mteixeira\\.dev$",
