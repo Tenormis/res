@@ -100,6 +100,7 @@
         "^([\\w\\d-]+\\.)*sentinelguard\\.io$",
         "^([\\w\\d-]+\\.)*sentry\\.io$",
         "^([\\w\\d-]+\\.)*sms-activate\\.io$",
+        "^([\\w\\d-]+\\.)*softonic\\.com$",
         "^([\\w\\d-]+\\.)*splunkcloud\\.com$",
         "^([\\w\\d-]+\\.)*spotify\\.com$",
         "^([\\w\\d-]+\\.)*spring\\.io$",
