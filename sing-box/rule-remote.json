@@ -16,6 +16,7 @@
         "^([\\w\\d-]+\\.)*b-cdn\\.net$",
         "^([\\w\\d-]+\\.)*boringavatars\\.com$",
         "^([\\w\\d-]+\\.)*browser-intake-datadoghq\\.com$",
+        "^([\\w\\d-]+\\.)*browserleaks\\.(com|net|org)$",
         "^([\\w\\d-]+\\.)*bulianglin\\.com$",
         "^([\\w\\d-]+\\.)*byteoversea\\.com$",
         "^([\\w\\d-]+\\.)*capcut\\.com$",
