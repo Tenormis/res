@@ -98,6 +98,7 @@
         "^([\\w\\d-]+\\.)*redisson\\.pro$",
         "^([\\w\\d-]+\\.)*sagernet\\.org$",
         "^([\\w\\d-]+\\.)*scdn\\.co$",
+        "^([\\w\\d-]+\\.)*schemastore\\.org$",
         "^([\\w\\d-]+\\.)*segment\\.io$",
         "^([\\w\\d-]+\\.)*sentinelguard\\.io$",
         "^([\\w\\d-]+\\.)*sentry\\.io$",
