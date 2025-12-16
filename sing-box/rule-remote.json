@@ -47,6 +47,7 @@
         "^([\\w\\d-]+\\.)*generated\\.photos$",
         "^([\\w\\d-]+\\.)*githubusercontent\\.com$",
         "^([\\w\\d-]+\\.)*grok\\.com$",
+        "^([\\w\\d-]+\\.)*grokipedia\\.com$",
         "^([\\w\\d-]+\\.)*guarda\\.com$",
         "^([\\w\\d-]+\\.)*hellotalk\\.com$",
         "^([\\w\\d-]+\\.)*heroicons\\.dev$",
