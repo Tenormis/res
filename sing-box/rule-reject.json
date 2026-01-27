@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_regex": ["^([\\w\\d-]+\\.)*wwads\\.cn$"]
+      "domain_regex": ["^([\\w\\d\\-]+\\.)*wwads\\.cn$"]
     }
   ]
 }
