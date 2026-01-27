@@ -133,7 +133,8 @@
         "^([\\w\\d\\-]+\\.)*xlog\\.app$",
         "^([\\w\\d\\-]+\\.)*yugogo\\.xyz$",
         "^([\\w\\d\\-]+\\.)*zlibrary\\.st$",
-        "^(designer|crl|copilot|account)\\.microsoft\\.com$"
+        "^(designer|crl|copilot|account)\\.microsoft\\.com$",
+        "^[\\w\\d\\-\\.]*(google|gstatic)[\\w\\d\\-]*\\.[\\w\\d]+$"
       ]
     }
   ]
