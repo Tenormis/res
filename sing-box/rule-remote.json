@@ -12,6 +12,7 @@
         "^([\\w\\d\\-]+\\.)*aka\\.ms$",
         "^([\\w\\d\\-]+\\.)*amazonaws\\.com$",
         "^([\\w\\d\\-]+\\.)*anthropic\\.com$",
+        "^([\\w\\d\\-]+\\.)*arena\\.ai$",
         "^([\\w\\d\\-]+\\.)*asiones\\.com$",
         "^([\\w\\d\\-]+\\.)*b-cdn\\.net$",
         "^([\\w\\d\\-]+\\.)*boringavatars\\.com$",
